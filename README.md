@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm currently learning MERN<br>>🎲 Fun fact: I am always curious about learning new things</p>
+<p align="left">✨ I'm currently learning MERN<br>🎲 Fun fact: I am always curious about learning new things</p>
 
 ###
 
